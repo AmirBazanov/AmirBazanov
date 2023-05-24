@@ -29,5 +29,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirbazanov&&theme=tokyonight" alt="amirbazanov" /></p>
 
-<br clear="both">
-<img src="https://raw.githubusercontent.com/AmirBazanov/AmirBazanov/output/snake.svg" alt="Snake animation" / >
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmirBazanov/AmirBazanov/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmirBazanov/AmirBazanov/output/github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
