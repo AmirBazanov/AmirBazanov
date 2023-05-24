@@ -28,3 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirbazanov&show_icons=true&locale=en&theme=tokyonight" alt="amirbazanov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirbazanov&&theme=tokyonight" alt="amirbazanov" /></p>
+
+<br clear="both">
+<img src="https://raw.githubusercontent.com/AmirBazanov/AmirBazanov/output/snake.svg- alt="Snake animation" / >
