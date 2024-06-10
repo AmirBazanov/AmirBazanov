@@ -5,9 +5,8 @@
 
 <p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirbazanov&theme=tokyonight" alt="amirbazanov" /></a> </p>
 
-- 🔭 I’m currently working on [kinopoisk clone](https://github.com/AmirBazanov/kinopoiks-snatch)
 
-- 🌱 I’m currently learning **NestJs, Microservices**
+- 🌱 I’m currently learning **GoLang**
 
 - 💬 Ask me about **NestJs, Docker, TypeScript**
 
