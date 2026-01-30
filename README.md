@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amir Bazanov</h1>
-<h3 align="center">Back-end Engineer (Systems focus) • Go</h3>
+<h1 align="center">Hi 👋, I'm Amir</h1>
+<h3 align="center">Back-end Engineer (Systems focus) • Go / Node.js</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AmirBazanov&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -13,14 +13,14 @@
 - Familiar with **C** and low-level concepts (memory, pointers, data structures)
 - Learning how high-level abstractions map to **OS and hardware behavior**
 - Building back-end systems with focus on **performance, correctness and simplicity**
-- Prefer understanding internals instead of relying only on frameworks
+- Also exploring **Node.js** for quick prototyping and full-stack understanding
 
 ---
 
 ### 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,c,postgres,redis,docker,linux,git,neovim" />
+  <img src="https://skillicons.dev/icons?i=go,c,nodejs,postgres,redis,docker,linux,git,neovim" />
 </p>
 
 ---
@@ -31,6 +31,7 @@
 - Simple **storage components** and internal data structures
 - Concurrent systems in **Go** (goroutines, channels, synchronization)
 - Studying low-level topics using **C** as a learning tool
+- Quick prototyping and small services in **Node.js**
 
 ---
 
@@ -43,33 +44,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AmirBazanov&theme=tokyonight&show_icons=true&hide_border=true&rank_icon=github"
-    alt="GitHub stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirBazanov&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top languages"
-  />
-</p>
-
----
-
-### 🌐 Connect with me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/amir-bazanov-566570276/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  <a href="https://stackoverflow.com/users/10562740/amir-bazanov" target="_blank">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" height="40"/>
-  </a>
-  <a href="https://www.instagram.com/amir_bazanov/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-  </a>
+  <img src="https://img.shields.io/github/stars/AmirBazanov?style=social" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/forks/AmirBazanov?style=social" alt="GitHub forks" />
+  <img src="https://img.shields.io/github/issues/AmirBazanov?style=social" alt="GitHub issues" />
 </p>
 
 ---
