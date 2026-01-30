@@ -34,22 +34,26 @@
 
 ---
 
+### 📌 Featured Projects
+
+- **[bedis](https://github.com/AmirBazanov/bedis)** — Redis-like storage, RESP protocol, written from scratch  
+- **[crm](https://github.com/AmirBazanov/crm)** — back-end service focusing on architecture and correctness  
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmirBazanov&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AmirBazanov&theme=tokyonight&show_icons=true&hide_border=true&rank_icon=github"
+    alt="GitHub stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirBazanov&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmirBazanov&theme=tokyonight&no-frame=true&column=6" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirBazanov&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top languages"
+  />
 </p>
 
 ---
