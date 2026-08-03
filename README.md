@@ -24,6 +24,7 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=go,c,typescript,nextjs,nodejs,python,postgres,redis,docker,linux,git,neovim" />
+  <img height="48" src="https://cdn.simpleicons.org/claude/D97757" alt="Claude" />
 </p>
 
 ---
@@ -46,15 +47,6 @@
 - **AlgoAutoFeedBackService** — Go sidecar that generates and delivers per-lesson feedback into Telegram/MAX partner chats, talking to AlgoAgentPlatform over HMAC-signed HTTP only — no shared DB, no shared sessions. Private repo, actively maintained.
 - **[bedis](https://github.com/AmirBazanov/bedis)** — Redis-like in-memory store, RESP protocol, written from scratch
 - **[crm](https://github.com/AmirBazanov/crm)** — back-end service focused on architecture and correctness
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/AmirBazanov?style=social" alt="GitHub stars" />
-  <img src="https://img.shields.io/github/followers/AmirBazanov?style=social" alt="GitHub followers" />
-</p>
 
 ---
 
