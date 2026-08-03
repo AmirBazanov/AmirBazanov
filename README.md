@@ -40,7 +40,8 @@
 ### 📌 Featured Projects
 
 - **somethingLMS** — hybrid LMS SaaS (franchise ops + course sales): Go modular monolith, Postgres with row-level multi-tenancy, self-hosted code-execution sandbox, Next.js frontend. Solo build, private repo, in active development.
-- **AlgoAutoFeedBackService** — Go sidecar that generates and delivers per-lesson feedback into Telegram/MAX partner chats alongside a FastAPI backend, talking over HMAC-signed HTTP only — no shared DB, no shared sessions. Private repo, actively maintained.
+- **AlgoAutoFeedBackService** — Go sidecar that generates and delivers per-lesson feedback into Telegram/MAX partner chats, talking to its FastAPI backend over HMAC-signed HTTP only — no shared DB, no shared sessions. Private repo, actively maintained.
+- **[AlgoAgentPlatform](https://github.com/depressed7kk1d/AlgoAgentPlatform)** — the FastAPI backend AlgoAutoFeedBackService sits beside. Team project, private repo.
 - **[bedis](https://github.com/AmirBazanov/bedis)** — Redis-like in-memory store, RESP protocol, written from scratch
 - **[crm](https://github.com/AmirBazanov/crm)** — back-end service focused on architecture and correctness
 
@@ -49,14 +50,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmirBazanov&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirBazanov&layout=compact&hide_border=true&count_private=true" alt="Top languages" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirBazanov" alt="GitHub streak stats" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/AmirBazanov?style=social" alt="GitHub stars" />
-  <img src="https://img.shields.io/github/forks/AmirBazanov?style=social" alt="GitHub forks" />
-  <img src="https://img.shields.io/github/issues/AmirBazanov?style=social" alt="GitHub issues" />
+  <img src="https://img.shields.io/github/followers/AmirBazanov?style=social" alt="GitHub followers" />
 </p>
 
 ---
