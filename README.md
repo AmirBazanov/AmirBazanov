@@ -26,12 +26,6 @@
   <img src="https://skillicons.dev/icons?i=go,c,typescript,nextjs,nodejs,python,postgres,redis,docker,linux,git,neovim" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/RAG-Pinecone-6A5ACD?style=for-the-badge" alt="RAG / Pinecone" />
-</p>
-
 ---
 
 ### 🔍 What I work on
@@ -48,7 +42,7 @@
 ### 📌 Featured Projects
 
 - **somethingLMS** — hybrid LMS SaaS (franchise ops + course sales): Go modular monolith, Postgres with row-level multi-tenancy, self-hosted code-execution sandbox, Next.js frontend. Solo build, private repo, in active development.
-- **[AlgoAgentPlatform](https://github.com/depressed7kk1d/AlgoAgentPlatform)** — AI platform for client interaction automation: RAG-backed Telegram bots (OpenAI GPT-4, GigaChat, Pinecone vector search), CRM sync, billing. Team project, private repo.
+- **AlgoAgentPlatform** — AI platform for client interaction automation: RAG-backed Telegram bots (OpenAI GPT-4, GigaChat, Pinecone vector search), CRM sync, billing. Team project, private repo.
 - **AlgoAutoFeedBackService** — Go sidecar that generates and delivers per-lesson feedback into Telegram/MAX partner chats, talking to AlgoAgentPlatform over HMAC-signed HTTP only — no shared DB, no shared sessions. Private repo, actively maintained.
 - **[bedis](https://github.com/AmirBazanov/bedis)** — Redis-like in-memory store, RESP protocol, written from scratch
 - **[crm](https://github.com/AmirBazanov/crm)** — back-end service focused on architecture and correctness
@@ -56,10 +50,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirBazanov" alt="GitHub streak stats" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/AmirBazanov?style=social" alt="GitHub stars" />
